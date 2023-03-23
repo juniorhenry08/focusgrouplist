@@ -40,6 +40,10 @@ a {
     color: #00008a;
 }
 
+a:last-child {
+    margin-bottom: 30px;
+}
+
 h1 {
     text-align: left;
     margin-bottom: 10px;
